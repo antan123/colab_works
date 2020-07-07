@@ -1,2 +1,2 @@
 # colab_works
-colab_notebooks
+Google Colab standalone notebooks and projects
